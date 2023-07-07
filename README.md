@@ -5,8 +5,14 @@
   BiliBili Conversion Tool
 </h1>
 <p align="center">
+<img src="https://img.shields.io/badge/Version-v1.2-green?style=flat&logo">
+<img src="https://img.shields.io/badge/Platform-Win|macOS-blue?color=#4ec820" alt="Platform Win|macOS"/>
+<img src="https://img.shields.io/badge/Python-3.7%20-blue?color=#4ec820" alt="Python 3.7"/>
+</p>
+<p align="center">
   哔哩哔哩客户端缓存视频转化工具
 </p>
+
 
 <p align="center">
   <img width="30%" align="center" src="https://z4a.net/images/2023/07/07/ui.png" alt="ui">
