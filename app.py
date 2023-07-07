@@ -4,7 +4,7 @@ from PyQt5.QtCore import QUrl
 from PyQt5.QtWidgets import QApplication, QFileDialog
 from PyQt5.QtGui import QDesktopServices, QIcon
 from main_ui import MainWindow
-from transform import run
+from conversion import run
 # 设置任务栏图标
 import ctypes
 
