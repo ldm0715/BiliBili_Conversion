@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img width="30%" align="center" src="https://z4a.net/images/2023/07/07/ui.png" alt="ui">
+  <img width="50%" align="center" src="https://z4a.net/images/2023/07/07/ui.png" alt="ui">
 </p>
 
 ## 运行环境

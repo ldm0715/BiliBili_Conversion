@@ -35,7 +35,7 @@ class MainWindow(QMainWindow):
         button1 = QPushButton("转换", self)
         button1.resize(100, 100)
         button1.move(100, 150)
-        button1.setSizePolicy(QSizePolicy.Minimum, QSizePolicy.Fixed)
+        # button1.setSizePolicy(QSizePolicy.Minimum, QSizePolicy.Fixed)
         self.button1 = button1
 
         button2 = QPushButton("选择文件夹", self)
